@@ -133,6 +133,11 @@ section {
     margin-bottom: 10px;
 }
 
+button {
+    cursor: pointer;
+    margin: 10px;
+}
+
 .card p {
     color: #666;
     font-size: 14px;
@@ -141,6 +146,15 @@ section {
 /*contac*/
 .contact {
     background-color: #f6bd60;
+    height: 600px;
+}
+
+.contact h2{
+    font-size: 60px;
+}
+
+.contact p{
+    font-size: 30px;
 }
 
 footer {
@@ -179,4 +193,3 @@ footer p {
     padding: 15px;
     font-size: 14px;
 }
-
